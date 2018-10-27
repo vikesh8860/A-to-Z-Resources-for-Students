@@ -801,6 +801,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|32 |[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)|AI & ML Researcher(NN)|
 ---
 
 # 10. Top Websites to Follow
